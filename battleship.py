@@ -23,6 +23,7 @@ pygame.display.set_caption("Battleship")
 
 # Размер шрифта
 font_size = int(block_size // 2)
+
 # Шрифт
 font = pygame.font.SysFont('Lucida Console', font_size)
 
